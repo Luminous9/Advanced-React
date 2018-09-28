@@ -1,4 +1,4 @@
-import Nav from './Nav';
+import Nav from "./Nav"
 
 const Header = () => (
   <div>
@@ -11,6 +11,6 @@ const Header = () => (
     </div>
     <div>Cart</div>
   </div>
-);
+)
 
-export default Header;
+export default Header
